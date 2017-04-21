@@ -12,3 +12,5 @@ function klikR(){
 
 	alert("Hallo " + isiUser + ", anda telah terdaftar dengan email : " + isiEmail + "dan password : " + isiPass )
 }
+
+//test
